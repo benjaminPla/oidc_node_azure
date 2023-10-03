@@ -35,7 +35,6 @@ To run the project locally, follow these steps:
 
 ```
 npm install
-
 ```
 
 2. Start the development server:
@@ -88,3 +87,15 @@ Identity Provider (IdP) => google.com
 > abc.com can allow users to log in with google.com and add them to its own user database. It can then provide users with the option to change their local password or unlink their google.com account (recommended hybrid approach).
 
 ## Images
+
+![Screenshot_1](https://github.com/benjaminPla/oidc_node_azure/assets/85419447/ca32a777-37e0-43f4-965a-83b4de1cd361)
+
+![image002](https://github.com/benjaminPla/oidc_node_azure/assets/85419447/4818907c-0c0e-479a-b089-582c60431766)
+
+![Screenshot_4](https://github.com/benjaminPla/oidc_node_azure/assets/85419447/d04b167e-b39c-4568-9872-5cc593f64818)
+
+![Screenshot_2](https://github.com/benjaminPla/oidc_node_azure/assets/85419447/452ac459-831f-4ca2-bb7b-d83f20f0af09)
+
+![Screenshot_3](https://github.com/benjaminPla/oidc_node_azure/assets/85419447/ef9fdf8f-2fa4-42f8-8d35-7051ebda9983)
+
+![image003](https://github.com/benjaminPla/oidc_node_azure/assets/85419447/44ede412-763d-4ad7-9e95-e99a565626d0)
